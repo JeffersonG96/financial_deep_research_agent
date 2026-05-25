@@ -1,0 +1,27 @@
+*.py[cod]
+*.pyo
+*.pyd
+
+venv/
+.env/
+.venv/
+
+.env
+.env.*
+
+*.log
+
+.vscode/
+.langgraph_api
+
+# file
+*.pdf
+*.jpg
+**/images/
+**/*.png
+**/*.jsonl
+**/*.md
+
+**/*.db
+**/*.db*
+notebooks/data/deep_finance_research.db
